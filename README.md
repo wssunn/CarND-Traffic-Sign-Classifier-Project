@@ -10,10 +10,11 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./demo/visualization.jpg "Visualization"
-[image2]: ./demo/grayscale.jpg "Grayscaling"
-[image3]: ./demo/traffic_sign.jpg
-[image4]: ./demo/resnet.jpg
+[image1]: ./img/visualization.jpg "Visualization"
+[image2]: ./img/grayscale.jpg "Grayscaling"
+[image3]: ./img/traffic_sign.jpg
+[image4]: ./img/resnet.jpg
+
 
 ### Data Set Summary & Exploration
 
